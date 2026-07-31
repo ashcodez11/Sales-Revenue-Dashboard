@@ -1,4 +1,4 @@
-# 📊 Sales & Revenue Analysis Dashboard
+#  Sales & Revenue Analysis Dashboard
 
 ## Dashboard Preview
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 About
+##  About
 
 This project is a **Sales & Revenue Analysis Dashboard** developed using **Microsoft Excel** as part of the **Thiranex Data Analytics Internship**.
 
@@ -14,13 +14,13 @@ The dashboard demonstrates how raw sales data can be transformed into meaningful
 
 ---
 
-## 🎯 Project Objective
+##  Project Objective
 
 To build an interactive dashboard that helps businesses monitor sales performance, identify revenue trends, and make data-driven decisions through effective visualization techniques.
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The dashboard is built using a structured sales dataset containing information such as:
 
@@ -38,20 +38,20 @@ The dataset was imported into Microsoft Excel and analyzed using Pivot Tables an
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 📈 Revenue Analysis by Month
-- 📅 Revenue Analysis by Year
-- 🌍 Revenue Analysis by Zone
-- 📍 Revenue Analysis by State
-- 📊 Interactive Pivot Tables
-- 📉 Pivot Charts
-- 🎛 Filters and Slicers for interactive exploration
-- 📌 Business-friendly dashboard layout
+-  Revenue Analysis by Month
+- Revenue Analysis by Year
+-  Revenue Analysis by Zone
+-  Revenue Analysis by State
+-  Interactive Pivot Tables
+-  Pivot Charts
+-  Filters and Slicers for interactive exploration
+-  Business-friendly dashboard layout
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 - Microsoft Excel
 - Pivot Tables
@@ -62,7 +62,7 @@ The dataset was imported into Microsoft Excel and analyzed using Pivot Tables an
 
 ---
 
-## 📊 Dashboard Insights
+##  Dashboard Insights
 
 The dashboard provides insights such as:
 
@@ -74,7 +74,7 @@ The dashboard provides insights such as:
 
 ---
 
-## 🎓 Internship
+##  Internship
 
 This project was completed as part of the **Thiranex Data Analytics Internship** to strengthen practical skills in:
 
@@ -87,7 +87,7 @@ This project was completed as part of the **Thiranex Data Analytics Internship**
 
 ---
 
-## 📚 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, I gained hands-on experience in:
 
@@ -100,7 +100,7 @@ Through this project, I gained hands-on experience in:
 
 ---
 
-## 📁 Repository Contents
+##  Repository Contents
 
 - `Sales-Revenue-Dashboard.xlsx` – Excel dashboard with Pivot Tables and Charts
 - `Dashboard.png` – Dashboard preview image
@@ -108,7 +108,7 @@ Through this project, I gained hands-on experience in:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Ashwathi M**
 
