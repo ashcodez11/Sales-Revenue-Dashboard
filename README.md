@@ -8,10 +8,11 @@
 
 ##  About
 
-This project is a **Sales & Revenue Analysis Dashboard** developed using **Microsoft Excel** as part of the **Thiranex Data Analytics Internship**.
+This project was developed as **Task 1** of the **Thiranex Data Analytics Internship**.
 
-The dashboard demonstrates how raw sales data can be transformed into meaningful business insights using Pivot Tables, Pivot Charts, Filters, and Slicers. It enables users to analyze sales performance across different dimensions such as time, region, and state.
+The objective was to build an interactive **Sales & Revenue Analysis Dashboard** in Microsoft Excel by importing a real-world sales dataset and visualizing key business metrics. The dashboard enables users to analyze revenue trends, compare sales across years, zones, and states, and gain actionable business insights using Pivot Tables, Pivot Charts, Filters, and Slicers.
 
+The project focuses on transforming raw sales data into meaningful visualizations to support data-driven decision-making.
 ---
 
 ##  Project Objective
